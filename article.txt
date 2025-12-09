@@ -1,3 +1,0 @@
-Introduction
-
-Aujourd’hui, les entreprises utilisent beaucoup le numérique, ce qui les expose à de nombreuses menaces informatiques. Parmi les plus courantes, on retrouve le phishing, une attaque simple mais redoutablement efficace. Elle vise principalement à tromper les utilisateurs pour leur voler des informations sensibles. Dans notre présentation, nous allons expliquer ce qu’est le phishing, pourquoi cette attaque fonctionne encore et comment s’en protéger.
