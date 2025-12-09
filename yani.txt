@@ -1,0 +1,17 @@
+Comment se protéger contre le phishing ?
+
+Pour limiter les risques, plusieurs mesures doivent être mises en place :
+
+Former et sensibiliser les employés : c’est la protection la plus efficace.
+
+Activer l’authentification multifacteur (MFA) : même si un mot de passe est volé, il devient inutilisable.
+
+Installer des filtres anti-spam pour limiter l’arrivée de messages frauduleux.
+
+Analyser les liens avant de cliquer : regarder l’adresse réelle en passant la souris dessus.
+
+Ne jamais donner d’informations sensibles par e-mail.
+
+Conclusion
+
+Le phishing reste aujourd’hui l’une des attaques les plus répandues, car elle cible avant tout l’humain plutôt que la technologie. Pourtant, avec une bonne sensibilisation, des outils adaptés et des réflexes simples, il est possible de réduire fortement les risques. La cybersécurité dépend donc autant des systèmes informatiques que du comportement des utilisateurs.
