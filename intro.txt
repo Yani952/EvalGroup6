@@ -1,0 +1,9 @@
+Introduction
+
+Aujourd’hui, les entreprises utilisent beaucoup le numérique, ce qui les expose à de nombreuses menaces informatiques. Parmi les plus courantes, on retrouve le phishing, une attaque simple mais redoutablement efficace. Elle vise principalement à tromper les utilisateurs pour leur voler des informations sensibles. Dans notre présentation, nous allons expliquer ce qu’est le phishing, pourquoi cette attaque fonctionne encore et comment s’en protéger.
+
+Qu’est-ce que le phishing ?
+
+Le phishing est une technique utilisée par des cybercriminels pour récupérer des données personnelles ou professionnelles. Ils envoient un message qui ressemble à un e-mail officiel provenant d’une banque, d’un service de livraison, d’un site administratif ou même de votre entreprise par exemples
+
+Le but est d’inciter la victime à cliquer sur un lien ou à télécharger une pièce jointe. Une fois cela fait, les cybercriminels peuvent voler des identifiants, pirater un compte ou installer un logiciel malveillant.
