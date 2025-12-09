@@ -10,4 +10,4 @@ Installer des filtres anti-spam pour limiter l’arrivée de messages frauduleux
 
 Analyser les liens avant de cliquer : regarder l’adresse réelle en passant la souris dessus.
 
-Ne jamais donner d’informations sensibles par e-mail.
+Ne jamais donner d’informations sensibles par e-mail..
