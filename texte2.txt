@@ -1,0 +1,25 @@
+Pourquoi le phishing fonctionne encore aujourd’hui ?
+
+Le phishing reste très efficace pour plusieurs raisons :
+
+La confiance : les messages frauduleux imitent parfaitement les communications officielles.
+
+L’urgence : souvent, le message crée un stress (« votre compte va être bloqué »), ce qui pousse l’utilisateur à agir rapidement.
+
+Le volume : des millions de messages sont envoyés, il suffit que quelques personnes cliquent.
+
+La diversité des méthodes : le phishing ne se limite plus aux e-mails. On retrouve aujourd’hui le smishing (SMS), le vishing (appels téléphoniques) et même des attaques via les réseaux sociaux.
+
+Les conséquences pour les entreprises
+
+Les impacts peuvent être très graves :
+
+Vol de données sensibles : mots de passe, informations clients, documents internes.
+
+Intrusion dans le système informatique : ce qui peut mener à des attaques plus complexes, comme un ransomware.
+
+Pertes financières : paiements frauduleux, réparation du système, interruption de service.
+
+Perte de confiance des clients : une fuite de données peut nuire gravement à l’image de l’entreprise.
+
+Sanctions légales : avec le RGPD, des amendes importantes peuvent être imposées.
